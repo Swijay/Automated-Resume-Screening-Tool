@@ -1,0 +1,9 @@
+Name: Aman Verma
+
+Frontend Developer with experience in React, Next.js, JavaScript, HTML, CSS, and Git.
+
+Skills:
+HTML, CSS, JavaScript, React, Next.js, Git
+
+Experience:
+8 months frontend internship experience.

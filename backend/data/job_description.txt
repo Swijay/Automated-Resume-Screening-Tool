@@ -1,0 +1,9 @@
+We are hiring a Python Developer with strong knowledge of Python, FastAPI, REST API development, SQL, machine learning, data analysis, Git, and basic NLP.
+
+The candidate should have experience in building backend APIs, working with datasets, cleaning data, and deploying machine learning models.
+
+Must-have skills: Python, FastAPI, SQL, Machine Learning, Git.
+
+Good-to-have skills: NLP, Docker, Pandas, Scikit-learn, Next.js.
+
+Experience required: 1 year.

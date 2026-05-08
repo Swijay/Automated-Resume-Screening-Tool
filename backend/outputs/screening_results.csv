@@ -1,0 +1,4 @@
+candidate_name,similarity_score,skill_match_score,final_score,recommendation,experience_years,matched_skills,missing_skills,all_extracted_skills,explanation
+resume_1,54.88,100.0,77.44,Strong Match,1.5,"['fastapi', 'git', 'machine learning', 'python', 'sql']",[],"['fastapi', 'git', 'machine learning', 'pandas', 'python', 'scikit-learn', 'sql']",resume_1 scored 77.44% based on resume-job similarity and must-have skill matching.
+resume_2,23.54,40.0,31.77,Low Match,1.0,"['python', 'sql']","['fastapi', 'git', 'machine learning']","['pandas', 'python', 'sql']",resume_2 scored 31.77% based on resume-job similarity and must-have skill matching.
+resume_3,11.01,20.0,15.5,Low Match,0.67,['git'],"['fastapi', 'machine learning', 'python', 'sql']","['git', 'next.js', 'react']",resume_3 scored 15.5% based on resume-job similarity and must-have skill matching.

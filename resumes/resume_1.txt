@@ -1,0 +1,9 @@
+Name: Rahul Sharma
+
+Python Developer with experience in FastAPI, SQL, Git, Pandas, and Machine Learning.
+
+Skills:
+Python, FastAPI, SQL, Git, Pandas, Machine Learning, Scikit-learn
+
+Experience:
+1.5 years of backend development experience.

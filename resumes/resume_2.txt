@@ -1,0 +1,9 @@
+Name: Priya Mehta
+
+Data Analyst skilled in Python, SQL, Excel, Power BI, Tableau, and Data Analysis.
+
+Skills:
+Python, SQL, Excel, Power BI, Tableau, Pandas
+
+Experience:
+1 year of data analysis experience.
